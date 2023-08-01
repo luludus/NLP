@@ -13,13 +13,13 @@
 5. AN IMAGE IS WORTH 16X16 WORDS:TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE (CV相关的一篇）
 6. Learning Transferable Visual Models From Natural Language Supervision（多模态的一篇）
 7. Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing（Prompt的一篇综述）
-项目
+## 项目
 1.https://github.com/chatchat-space/langchain-ChatGLM（模型借助langchain，进行外部知识库加载问答）
 2.https://github.com/ymcui/Chinese-LLaMA-Alpaca
 3.https://github.com/mymusise/ChatGLM-Tuning（模型微调）
 
 # Part3--方向
-COT方向基础论文：
+## COT方向基础论文：
 1.Chain-of-Thought Prompting Elicits Reasoning in Large Language Models
 2.Large Language Models are Zero-Shot Reasoners
 3.Why Johnny Can’t Prompt:How Non-AI Experts Try (and Fail) to Design LLM Prompts How Non-AI Experts Try (and Fail) to Design LLM Prompts
