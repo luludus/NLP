@@ -20,6 +20,7 @@
 3.https://github.com/mymusise/ChatGLM-Tuning（模型微调）
 
 # Part3--方向
+
 ## COT方向基础论文：
 1.Chain-of-Thought Prompting Elicits Reasoning in Large Language Models
 2.Large Language Models are Zero-Shot Reasoners
