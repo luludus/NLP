@@ -1,5 +1,5 @@
 # Part1--教材教程
-1. 吴恩达 coursera机器学习（机器学习基础，偏实践，没多少理论部分；课程代码用的matlab，网上有python代码，代码是机器学习相关的，现在深度学习貌似用不太到）
+1. 吴恩达 coursera机器学习（机器学习基础，偏实践；课程代码用的matlab，网上有python代码，代码是机器学习相关的可以不太关注）
 2. 吴恩达 cs229 （机器学习，理论性强；要快速上手的话可以晚点看）
 3. 李沐  动手深度学习（深度学习入门，会学到pytorch）
 4. cs224n （有一些NLP相关的经典模型算法，以及一些比较新的内容）
@@ -10,9 +10,10 @@
 2. BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding（BERT）
 3. Deep Residual Learning for Image Recognition（RESNET）
 4. Improving Language Understanding by Generative Pre-Training（GPT）
-5. AN IMAGE IS WORTH 16X16 WORDS:TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE (CV相关的一篇）
-6. Learning Transferable Visual Models From Natural Language Supervision（多模态的一篇）
-7. Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing（Prompt的一篇综述）
+5. Momentum Contrast for Unsupervised Visual Representation Learning. （Moco）
+6. AN IMAGE IS WORTH 16X16 WORDS:TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE (CV相关的一篇）
+7. Learning Transferable Visual Models From Natural Language Supervision（多模态的一篇）
+8. Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing（Prompt的一篇综述）
 ## 项目
 1.https://github.com/chatchat-space/langchain-ChatGLM（模型借助langchain，进行外部知识库加载问答）
 2.https://github.com/ymcui/Chinese-LLaMA-Alpaca
