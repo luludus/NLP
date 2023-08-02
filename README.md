@@ -3,7 +3,8 @@
 2. 吴恩达 cs229 （机器学习，理论性强；要快速上手的话可以晚点看）
 3. 李沐  动手深度学习（深度学习入门，会学到pytorch）
 4. cs224n （有一些NLP相关的经典模型算法，以及一些比较新的内容）
-5. 深度学习教材：花书或者邱希鹏的神经网络与深度学习；
+5. 教材：花书或者邱希鹏的神经网络与深度学习；利用python进行数据分析（matplotlib、numpy、pandas相关）；
+6. https://huggingface.co/  （模型的下载调用及相关技术介绍文档可以在里面找到）
 
 # Part2--论文项目
 1. Attention Is All You Need （Transformer）
@@ -14,14 +15,19 @@
 6. AN IMAGE IS WORTH 16X16 WORDS:TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE (CV相关的一篇）
 7. Learning Transferable Visual Models From Natural Language Supervision（多模态的一篇）
 8. Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing（Prompt的一篇综述）
+9. 也可以看下b站李沐读论文系列，找一些相关论文看一下（如，GAN、InstructGPT）
 ## 项目
 1.https://github.com/chatchat-space/langchain-ChatGLM（模型借助langchain，进行外部知识库加载问答）
+
 2.https://github.com/ymcui/Chinese-LLaMA-Alpaca
+
 3.https://github.com/mymusise/ChatGLM-Tuning（模型微调）
 
-# Part3--方向
 
+# Part3--方向
 ## COT方向基础论文：
 1.Chain-of-Thought Prompting Elicits Reasoning in Large Language Models
+
 2.Large Language Models are Zero-Shot Reasoners
+
 3.Why Johnny Can’t Prompt:How Non-AI Experts Try (and Fail) to Design LLM Prompts How Non-AI Experts Try (and Fail) to Design LLM Prompts
