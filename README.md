@@ -17,11 +17,11 @@
 8. Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing（Prompt的一篇综述）
 9. 也可以看下b站李沐读论文系列，找一些相关论文看一下（如，GAN、InstructGPT）
 ## 项目
-1.https://github.com/chatchat-space/langchain-ChatGLM（模型借助langchain，进行外部知识库加载问答）
+1.  （模型借助langchain，进行外部知识库加载问答）  :     https://github.com/chatchat-space/langchain-ChatGLM
 
 2.https://github.com/ymcui/Chinese-LLaMA-Alpaca
 
-3.https://github.com/mymusise/ChatGLM-Tuning（模型微调）
+3.（模型微调） :       https://github.com/mymusise/ChatGLM-Tuning
 
 
 # Part3--方向
