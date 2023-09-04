@@ -27,7 +27,7 @@
 3. RLHF （instructGPT；llama2）
 4. 模型借助langchain，进行外部知识库加载问答: https://github.com/chatchat-space/langchain-ChatGLM
 5. 指令微调：https://github.com/ymcui/Chinese-LLaMA-Alpaca   https://github.com/mymusise/ChatGLM-Tuning
-6. LLM相关： https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/prompt-engineering/
+6. LLM相关： https://fullstackdeeplearning.com/course/
 7. 参考： https://github.com/luban-agi/Awesome-AIGC-Tutorials/blob/main/README_zh.md
 
 # Part3--方向
