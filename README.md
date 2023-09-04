@@ -8,6 +8,7 @@
 7. 教材：花书或者邱希鹏的神经网络与深度学习；利用python进行数据分析（matplotlib、numpy、pandas相关）；
 8. https://huggingface.co/  （模型的下载调用及相关技术介绍文档可以在里面找到）
 9. https://pytorch.org/docs/stable/index.html   （pytorch文档）
+10. 参考： https://github.com/luban-agi/Awesome-AIGC-Tutorials/blob/main/README_zh.md
 
 # Part2--论文项目
 1. Attention Is All You Need （Transformer）
@@ -28,7 +29,6 @@
 4. 模型借助langchain，进行外部知识库加载问答: https://github.com/chatchat-space/langchain-ChatGLM
 5. 指令微调：https://github.com/ymcui/Chinese-LLaMA-Alpaca   https://github.com/mymusise/ChatGLM-Tuning
 6. LLM相关： https://fullstackdeeplearning.com/course/
-7. 参考： https://github.com/luban-agi/Awesome-AIGC-Tutorials/blob/main/README_zh.md
 
 # Part3--方向
 ## COT方向基础论文：
