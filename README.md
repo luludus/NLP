@@ -6,6 +6,7 @@
 5. 清华刘知远 大模型公开课 （transformer架构；prompt；并行等内容）
 6. 教材：花书或者邱希鹏的神经网络与深度学习；利用python进行数据分析（matplotlib、numpy、pandas相关）；
 7. https://huggingface.co/  （模型的下载调用及相关技术介绍文档可以在里面找到）
+8. https://pytorch.org/docs/stable/index.html   （pytorch文档）
 
 # Part2--论文项目
 1. Attention Is All You Need （Transformer）
@@ -18,12 +19,11 @@
 8. Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing（Prompt的一篇综述）
 9. 也可以看下b站李沐读论文系列，找一些相关论文看一下（如，GAN、InstructGPT）
 ## 项目与代码
-1. NLP的一些入门练习: https://github.com/FudanNLP/nlp-beginner#nlp-beginner%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%E5%85%A5%E9%97%A8%E7%BB%83%E4%B9%A0
-2. Bert预训练模型的代码的实现与理解 （也可以用微调预训练的bert模型来做1.中的任务）
-3. GPT模型架构的代码的实现与理解；
-4. RLHF（instructGPT；llama2）
-5. 模型借助langchain，进行外部知识库加载问答: https://github.com/chatchat-space/langchain-ChatGLM
-6. 指令微调：https://github.com/ymcui/Chinese-LLaMA-Alpaca   https://github.com/mymusise/ChatGLM-Tuning
+1. NLP的一些入门练习参考: https://github.com/FudanNLP/nlp-beginner#nlp-beginner%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%E5%85%A5%E9%97%A8%E7%BB%83%E4%B9%A0
+2. Bert、GPT预训练模型的代码的实现与理解 （也可以用微调预训练的bert模型来做1.中的任务）
+3. RLHF （instructGPT；llama2）
+4. 模型借助langchain，进行外部知识库加载问答: https://github.com/chatchat-space/langchain-ChatGLM
+5. 指令微调：https://github.com/ymcui/Chinese-LLaMA-Alpaca   https://github.com/mymusise/ChatGLM-Tuning
 
 # Part3--方向
 ## COT方向基础论文：
